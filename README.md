@@ -1,5 +1,5 @@
-# 电商生鲜-2B平台
-Java开源生鲜电商平台【2B平台】：前端：小程序；后端：后台运营平台  
+# 生鲜电商-2B运营平台
+Java开源生鲜电商平台【2B运营平台】：前端：小程序；后端：后台运营平台  
 地址：http://login.hefufarm.com/admin/#/login?redirect=%2Fsys%2Fadmin  
 账号：admin    
 密码：qwertyuiop  
@@ -33,8 +33,8 @@ QQ群：640826063 微信：Sniper0227
 项目采用分模块开发方式  
 dailyfresh-admin-api  这个是为后端管理页面提供的API即可。  
 dailyfresh-common 这个是为公共的模块。  
-dailyfresh-scheduled  这个的是定时器相关的文件与代码。 
-dailyfresh-wx-api  这个是为小程序提供的API后端文件。  
+dailyfresh-scheduled  这个的是定时器相关的文件与代码。   
+dailyfresh-wx-api  这个是为小程序提供的API后端文件。    
 
 #技术选型  
 1 后端使用技术  
