@@ -39,27 +39,26 @@ dailyfresh-wx-api  这个是为小程序提供的API后端文件。
 #技术选型  
 1 后端使用技术  
 
-1.1 SpringBoot2
-1.2 mybatis、MyBatis-Plus
-1.3 SpringSecurity
-1.5 Druid
-1.6 Slf4j
-1.7 Fastjson
-1.8 JWT
-1.9 Redis
-1.10 Quartz
-1.11 Mysql
-1.12 swagger
-1.13 WxJava
-1.14 Lombok
-1.15 Hutool
-1.16 Mapstruct
-1.17 Redisson
-1.18 Rocketmq
-前端使用技术
+1.1 SpringBoot2  
+1.2 mybatis、MyBatis-Plus  
+1.3 SpringSecurity  
+1.5 Druid  
+1.6 Slf4j  
+1.7 Fastjson  
+1.8 JWT  
+1.9 Redis  
+1.10 Quartz  
+1.11 Mysql  
+1.12 swagger  
+1.13 WxJava  
+1.14 Lombok  
+1.15 Hutool  
+1.16 Mapstruct  
+1.17 Redisson  
+1.18 Rocketmq  
+前端使用技术  
+2.1 Vue 全家桶   
+2.2 Element  
 
-2.1 Vue 全家桶
-2.2 Element
-
-#项目说明：
-1、如有意向请加作者WeChat【Sniper0227】获取商业版源代码
+#项目说明：   
+1、如有意向请加作者WeChat【Sniper0227】获取商业版源代码  
