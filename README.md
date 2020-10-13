@@ -56,9 +56,11 @@ dailyfresh-wx-api  这个是为小程序提供的API后端文件。
 1.16 Mapstruct  
 1.17 Redisson  
 1.18 Rocketmq  
+.............   
 前端使用技术  
 2.1 Vue 全家桶   
 2.2 Element  
+..........   
 
 #项目说明：   
 1、如有意向请加作者WeChat【Sniper0227】获取商业版源代码  
